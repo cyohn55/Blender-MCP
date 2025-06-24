@@ -1,0 +1,59 @@
+# Blender files
+*.blend
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.blend10
+*.blend11
+*.blend12
+*.blend13
+*.blend14
+*.blend15
+*.blend16
+*.blend17
+*.blend18
+*.blend19
+*.blend20
+
+# Backup files
+*.blender
+
+# Render output
+*.exr
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.avi
+*.mov
+*.mp4
+*.mkv
+*.webm
+
+# Cache files
+*.bcf
+*.bphys.gz
+*.fluid.gz
+*.ptcache.gz
+
+# Auto-save files
+autosave_*.blend
+
+# Lock files
+*.blend.lock
+
+# Asset library files
+blender_assets.cats.zip
+
+# Render cache
+cache/
+
+# User scripts backup
+userpref.blend
+startup.blend 
